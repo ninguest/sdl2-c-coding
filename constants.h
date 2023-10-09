@@ -1,0 +1,15 @@
+#define FALSE 0
+#define TRUE 1
+
+#define THEME 1
+
+#define WINDOW_WIDTH 800
+#define WINDOW_HEIGHT 600
+
+#define MENU_BUTTON_WIDTH 300
+#define MENU_BUTTON_HEIGHT 80
+
+#define GRID_WIDTH 3
+#define GRID_HEIGHT 3
+#define GRID_SIZE 300
+#define CELL_SIZE (GRID_SIZE / GRID_WIDTH)
