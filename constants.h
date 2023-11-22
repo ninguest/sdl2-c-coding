@@ -1,7 +1,7 @@
 #define FALSE 0
 #define TRUE 1
 
-#define THEME 1
+#define THEME 1 //Easter Egg, try change this to "NULL"
 
 #define WINDOW_WIDTH 800
 #define WINDOW_HEIGHT 600

@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "notification.h": "c",
+        "constants.h": "c"
+    }
+}
